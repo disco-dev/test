@@ -1,5 +1,6 @@
 <Results>
 	<Period>
+		<Name>Early March</Name>
 		<Start>3/1</Start>
 		<End>3/10</End>
 		<Tips>
@@ -7,6 +8,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Mid March</Name>
 		<Start>3/11</Start>
 		<End>3/20</End>
 		<Tips>
@@ -16,6 +18,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Late March</Name>
 		<Start>3/21</Start>
 		<End>3/31</End>
 		<Tips>
@@ -24,6 +27,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Early April</Name>
 		<Start>4/1</Start>
 		<End>4/10</End>
 		<Tips>
@@ -35,6 +39,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Mid April</Name>
 		<Start>4/11</Start>
 		<End>4/20</End>
 		<Tips>
@@ -43,6 +48,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Late April</Name>
 		<Start>4/21</Start>
 		<End>4/30</End>
 		<Tips>
@@ -51,6 +57,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Early May</Name>
 		<Start>5/1</Start>
 		<End>5/10</End>
 		<Tips>
@@ -60,6 +67,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Mid May</Name>
 		<Start>5/11</Start>
 		<End>5/20</End>
 		<Tips>
@@ -67,6 +75,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Late May</Name>
 		<Start>5/21</Start>
 		<End>5/31</End>
 		<Tips>
@@ -77,6 +86,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Early June</Name>
 		<Start>6/1</Start>
 		<End>6/10</End>
 		<Tips>
@@ -88,6 +98,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Mid June</Name>
 		<Start>6/11</Start>
 		<End>6/20</End>
 		<Tips>
@@ -96,6 +107,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Late June</Name>
 		<Start>6/21</Start>
 		<End>6/30</End>
 		<Tips>
@@ -103,6 +115,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Early-Mid July</Name>
 		<Start>7/1</Start>
 		<End>7/15</End>
 		<Tips>
@@ -112,6 +125,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Mid-Late July</Name>
 		<Start>7/16</Start>
 		<End>7/31</End>
 		<Tips>
@@ -122,6 +136,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Early-Mid August</Name>
 		<Start>8/1</Start>
 		<End>8/15</End>
 		<Tips>
@@ -130,6 +145,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Mid-Late August</Name>
 		<Start>8/16</Start>
 		<End>8/31</End>
 		<Tips>
@@ -138,6 +154,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Early-Mid September</Name>
 		<Start>9/1</Start>
 		<End>9/15</End>
 		<Tips>
@@ -148,6 +165,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>Mid-Late September</Name>
 		<Start>9/16</Start>
 		<End>9/30</End>
 		<Tips>
@@ -159,6 +177,7 @@
 		</Tips>
 	</Period>
 	<Period>
+		<Name>October</Name>
 		<Start>10/1</Start>
 		<End>10/31</End>
 		<Tips>
